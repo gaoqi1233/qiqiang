@@ -1,0 +1,74 @@
+{
+  "AA": {
+    "A": {
+      "U": "",
+      "isT": true,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "B": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "C": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "D": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "E": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "F": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "G": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "H": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "I": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    },
+    "J": {
+      "U": "",
+      "isT": false,
+      "name":"game",
+      "version":"1",
+      "versionName":"1.0.0"
+    }
+  }
+}
