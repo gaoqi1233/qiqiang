@@ -2,7 +2,7 @@
   "AA": {
     "A": {
       "U": "",
-      "isT": true,
+      "isT": false,
       "name":"game",
       "version":"1",
       "versionName":"1.0.0"
